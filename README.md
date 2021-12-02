@@ -1,4 +1,9 @@
 ## HEY Y'LL!! I'm Lucas! 
+<div align="center">
+   <img align="center" alt=heigh="200" width="300"src="https://user-images.githubusercontent.com/90359201/144491052-c8a7fe8d-d7ae-4c62-8360-c7d501044055.jpeg" />
+  </div>
+
+##
 
 <div align="center">
   <a href="https://github.com/lucsfar1a">
@@ -22,6 +27,8 @@
   <img align="center" alt=heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
   <img align="center" alt=heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
     <img align="center" alt=heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  
+
  
 </div>
   
