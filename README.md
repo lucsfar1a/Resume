@@ -5,6 +5,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucsfar1a&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucsfar1a&layout=compact&langs_count=7&theme=aura"/>
 </div>
+ 
+ ## 
 <div style="display: inline_block"><br>
   <img align="center" alt=height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt=height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -20,7 +22,7 @@
   <img align="center" alt=heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
   <img align="center" alt=heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
     <img align="center" alt=heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img align="right" alt="avatar" height="150" style="border-radius:50px;" src="https://1drv.ms/u/s!AtpeagKGEyvYgd8R50KZUqwZEeBpnA?e=TZskl3">
+ 
 </div>
   
 ##
