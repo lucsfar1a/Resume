@@ -1,6 +1,6 @@
 ## HEY Y'LL!! I'm Lucas! 
 <div align="center">
-   <img align="center" alt=heigh="200" width="300"src="https://user-images.githubusercontent.com/90359201/144491052-c8a7fe8d-d7ae-4c62-8360-c7d501044055.jpeg" />
+   <img align="center" alt=heigh="200" width="300"src="https://user-images.githubusercontent.com/90359201/144493888-316aa178-d8c7-41ad-b0e2-8a4810b178fa.jpg" />
   </div>
 
 ##
